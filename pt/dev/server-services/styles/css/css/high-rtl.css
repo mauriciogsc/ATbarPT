@@ -1,0 +1,5 @@
+p, a, abbr, acronym, address, b, basefont, big, blink, blockquote, body, button, canvas, caption, center, cite, code, col, colgroup, dd, dfn, dir, div, dl, dt, em, embed, fieldset, font, form, h1, h1 a, h1 a b, h1 abbr, h1 center, h1 span, h2, h2 a, h2 a b, h2 abbr, h2 center, h2 span, h3, h3 a, h3 a b, h3 abbr, h3 center, h3 span, h4, h4 a, h4 a b, h4 abbr, h4 center, h4 span, h5, h5 a, h5 a b, h5 abbr, h5 center, h5 span, h6, h6 a, h6 a b, h6 abbr, h6 center, h6 span, html, i, iframe, input, kbd, label, legend, li, listing, marquee, menu, multicol, nobr, object, ol, option, plaintext, pre, q, s, select, small, span, strike, strong, sub, sup, table, td, textarea, th, tr, tt, u, ul, var, xmp {
+	direction: rtl !important;
+	float: right;
+	text-align: justify !important;
+}

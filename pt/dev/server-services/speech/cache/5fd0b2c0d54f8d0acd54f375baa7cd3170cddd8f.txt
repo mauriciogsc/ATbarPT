@@ -1,0 +1,1 @@
+O teclado virtual é um software que permite entrada de texto em prograye emas de computador de maneira alternativa ao teclado convencional. A maioria se baseia em receber cliques do dispositivo apontador (mouse, rato) sobre uma imagem de teclado. A imagem clicada é convertida para um caractere de text
